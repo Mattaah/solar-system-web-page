@@ -14,16 +14,12 @@
 <body>
     <h1>LOGIN</h1>
     <form>
-        <div class="form">
-            <label for="email" class="email">seu e-mail de usuário:</label>
-            <input type="text" class="text">
-
-            <label for="password" class="password">sua senha:</label>
-            <input type="text" class="text">
-
-            <button type="button" class="button">LOGIN</button>
-        </div>
-
+        <label for="email">Enter your e-mail:</label><br>
+        <input type="email" id="login-email" required><br>
+        <label for="password">Type the password:</label><br>
+        <input type="password" id="login-password" required><br>
+        <button type="submit">Login</button>
+        <a href="cadastro.html">Don't have an account? Register</a>
     </form>
 
     <script src="js/main.js"></script>
