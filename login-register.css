@@ -20,13 +20,6 @@ body {
     width: 300px;
 }
 
-#error-message {
-    margin: 0;
-    text-align: center;
-    color: #ff4a4a;
-    font-size: 10px;
-}
-
 h1 {
     margin-top: 5%;
     text-align: center;
