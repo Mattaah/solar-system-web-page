@@ -9,6 +9,7 @@ Página web para acesso a informações sobre o início e desenvolvimento do sis
 
 - HTML
 - CSS
+- JavaScript (futuramente para implementação de validação de login e de registro)
 
 ## Funcionalidades
 
@@ -19,7 +20,7 @@ Página web para acesso a informações sobre o início e desenvolvimento do sis
 
 ## Disciplina
 
-Projeto final feito durante disciplina de desenvolvimento web
+Projeto final feito para comprovação dos conhecimentos técnicos adquiridos durante disciplina opcional de desenvolvimento web em 2026.
 
 ## Como acessar
 
