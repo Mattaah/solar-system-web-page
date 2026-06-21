@@ -1,5 +1,5 @@
-# web-page
-Local web page for accessing a home page screen via the login and register system.
+# solar-system-web-page
+Site feito em HTML e CSS destinado a manter informações sobre a história do sistema solar.
 
 ## Descrição
 
@@ -23,4 +23,4 @@ Projeto final feito durante disciplina de desenvolvimento web
 
 ## Como acessar
 
-Pelo link do GitHub Pages: https://mattaah.github.io/solar-system-web-page/
+Link do GitHub Pages: https://mattaah.github.io/solar-system-web-page/
