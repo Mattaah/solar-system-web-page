@@ -3,7 +3,7 @@ Site feito em HTML e CSS destinado a manter informações sobre a história do s
 
 ## Descrição
 
-Página web para acesso a informações sobre o início e desenvolvimento do sistema solar. Inclui protótipo de sistema baseado em login e registro.
+Este projeto consiste em uma página web feito para armazenar informações de maneira resumida e direta sobre a trajetória do sistema solar. Além disso, também inclui protótipo de sistema de login e de registro (os quais serão implementados futuramente com validação e gerenciamento de dados).
 
 ## Tecnologias utilizadas
 
